@@ -99,6 +99,7 @@ a {
   line-height: 1.2;
   font-weight: bold;
   text-align: center;
+  opacity: 0;
 }
 
 .description {
